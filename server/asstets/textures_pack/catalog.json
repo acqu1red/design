@@ -1,0 +1,195 @@
+{
+  "version": "1.0",
+  "theme": "black-green",
+  "units": "meters",
+  "tile_size_px": 1024,
+  "materials": [
+    {
+      "id": "wall_paint_deep_green",
+      "category": "walls",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_paint_deep_green/wall_paint_deep_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_paint_deep_green/wall_paint_deep_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_paint_deep_green/wall_paint_deep_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/wall_paint_deep_green_preview.jpg",
+      "scale_m_per_repeat": 1.0,
+      "apply_to": [
+        "wall"
+      ]
+    },
+    {
+      "id": "wall_stripes_green_black",
+      "category": "walls",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_stripes_green_black/wall_stripes_green_black_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_stripes_green_black/wall_stripes_green_black_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_stripes_green_black/wall_stripes_green_black_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/wall_stripes_green_black_preview.jpg",
+      "scale_m_per_repeat": 0.32,
+      "apply_to": [
+        "wall"
+      ]
+    },
+    {
+      "id": "wall_marble_dark_green",
+      "category": "walls",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_marble_dark_green/wall_marble_dark_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_marble_dark_green/wall_marble_dark_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/walls/wall_marble_dark_green/wall_marble_dark_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/wall_marble_dark_green_preview.jpg",
+      "scale_m_per_repeat": 0.8,
+      "apply_to": [
+        "wall"
+      ]
+    },
+    {
+      "id": "floor_planks_linear_olive",
+      "category": "floors",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_planks_linear_olive/floor_planks_linear_olive_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_planks_linear_olive/floor_planks_linear_olive_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_planks_linear_olive/floor_planks_linear_olive_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/floor_planks_linear_olive_preview.jpg",
+      "scale_m_per_repeat": 0.18,
+      "apply_to": [
+        "floor"
+      ]
+    },
+    {
+      "id": "floor_hex_black_green",
+      "category": "floors",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_hex_black_green/floor_hex_black_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_hex_black_green/floor_hex_black_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_hex_black_green/floor_hex_black_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/floor_hex_black_green_preview.jpg",
+      "scale_m_per_repeat": 0.14,
+      "apply_to": [
+        "floor"
+      ]
+    },
+    {
+      "id": "floor_terrazzo_black_green",
+      "category": "floors",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_terrazzo_black_green/floor_terrazzo_black_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_terrazzo_black_green/floor_terrazzo_black_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/floors/floor_terrazzo_black_green/floor_terrazzo_black_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/floor_terrazzo_black_green_preview.jpg",
+      "scale_m_per_repeat": 0.2,
+      "apply_to": [
+        "floor"
+      ]
+    },
+    {
+      "id": "ceiling_offwhite_green_tint",
+      "category": "ceilings",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/ceilings/ceiling_offwhite_green_tint/ceiling_offwhite_green_tint_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/ceilings/ceiling_offwhite_green_tint/ceiling_offwhite_green_tint_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/ceilings/ceiling_offwhite_green_tint/ceiling_offwhite_green_tint_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/ceiling_offwhite_green_tint_preview.jpg",
+      "scale_m_per_repeat": 1.0,
+      "apply_to": [
+        "ceiling"
+      ]
+    },
+    {
+      "id": "door_paint_dark_graphite",
+      "category": "doors",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_dark_graphite/door_paint_dark_graphite_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_dark_graphite/door_paint_dark_graphite_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_dark_graphite/door_paint_dark_graphite_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/door_paint_dark_graphite_preview.jpg",
+      "scale_m_per_repeat": 1.0,
+      "apply_to": [
+        "doors"
+      ]
+    },
+    {
+      "id": "door_paint_deep_green",
+      "category": "doors",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_deep_green/door_paint_deep_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_deep_green/door_paint_deep_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/doors/door_paint_deep_green/door_paint_deep_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/door_paint_deep_green_preview.jpg",
+      "scale_m_per_repeat": 1.0,
+      "apply_to": [
+        "doors"
+      ]
+    },
+    {
+      "id": "fabric_velvet_deep_green",
+      "category": "fabrics",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/fabrics/fabric_velvet_deep_green/fabric_velvet_deep_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/fabrics/fabric_velvet_deep_green/fabric_velvet_deep_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/fabrics/fabric_velvet_deep_green/fabric_velvet_deep_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/fabric_velvet_deep_green_preview.jpg",
+      "scale_m_per_repeat": 0.02,
+      "apply_to": [
+        "furniture_fabric"
+      ]
+    },
+    {
+      "id": "metal_brushed_blackened",
+      "category": "metals",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/metals/metal_brushed_blackened/metal_brushed_blackened_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/metals/metal_brushed_blackened/metal_brushed_blackened_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/metals/metal_brushed_blackened/metal_brushed_blackened_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/metal_brushed_blackened_preview.jpg",
+      "scale_m_per_repeat": 0.5,
+      "apply_to": [
+        "hardware",
+        "lighting"
+      ]
+    },
+    {
+      "id": "glass_frosted_green",
+      "category": "glass",
+      "albedo_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/glass/glass_frosted_green/glass_frosted_green_albedo.png",
+      "normal_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/glass/glass_frosted_green/glass_frosted_green_normal.png",
+      "roughness_url": "/mnt/data/capsule_textures_pack_black_green_2025/textures/glass/glass_frosted_green/glass_frosted_green_roughness.png",
+      "preview_url": "/mnt/data/capsule_textures_pack_black_green_2025/previews/glass_frosted_green_preview.jpg",
+      "scale_m_per_repeat": 0.6,
+      "apply_to": [
+        "glass"
+      ]
+    }
+  ],
+  "furniture_svg_mm": [
+    {
+      "id": "sofa_3seat_2200x900_top",
+      "w_mm": 2200,
+      "h_mm": 900
+    },
+    {
+      "id": "armchair_900x900_top",
+      "w_mm": 900,
+      "h_mm": 900
+    },
+    {
+      "id": "bed_1600x2000_top",
+      "w_mm": 1600,
+      "h_mm": 2000
+    },
+    {
+      "id": "table_1800x900_top",
+      "w_mm": 1800,
+      "h_mm": 900
+    },
+    {
+      "id": "chair_450x450_top",
+      "w_mm": 450,
+      "h_mm": 450
+    },
+    {
+      "id": "wardrobe_2000x600_top",
+      "w_mm": 2000,
+      "h_mm": 600
+    },
+    {
+      "id": "kitchen_base_cabinet_600x600_top",
+      "w_mm": 600,
+      "h_mm": 600
+    },
+    {
+      "id": "floor_lamp_300x300_top",
+      "w_mm": 300,
+      "h_mm": 300
+    }
+  ]
+}

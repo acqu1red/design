@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600mm" height="600mm" viewBox="0 0 600 600" shape-rendering="geometricPrecision">
+
+<g>
+<rect x="0" y="0" width="600" height="600" fill="#1E6A57" stroke="#0F1615" stroke-width="4" rx="12" ry="12"/>
+<text x="80" y="330" fill="#A0BCAA" font-family="Inter, Arial" font-size="80">BASE</text>
+</g>
+
+</svg>
