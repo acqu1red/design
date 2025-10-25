@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /opt/build/server
+cd server
 npm start
